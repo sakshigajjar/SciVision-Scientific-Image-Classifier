@@ -13,6 +13,5 @@ To get started with using our scientific image classifier:
 
 Step-1: Clone this repository to your local machine/Kaggle. <br>
 Step-2: Install the necessary dependencies by running pip install if you encounter any error in importing. <br>
-Step-3: If you want to train the model on our dataset or new dataset, use this file. if you want to test on new images download the model from this repo and load the model using this file. <br>
-Step-4: 
-Step-5: 
+Step-3: If you want to train the model on our dataset or new dataset, run the training code. If you want to test on new images download the model from this repo and load the model and predict! (only .jpg files will be supported, .png is not supported right now) <br>
+
