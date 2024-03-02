@@ -11,7 +11,7 @@ This repository contains the codebase for our team's project developed during th
 # Getting Started
 To get started with using our scientific image classifier:
 
-Step-1: Clone this repository to your local machine/Kaggle._
-Step-2: Install the necessary dependencies by running pip install if you encounter any error in importing._
-Step-3: Load the pretrained model._
+Step-1: Clone this repository to your local machine/Kaggle.__
+Step-2: Install the necessary dependencies by running pip install if you encounter any error in importing.__
+Step-3: Load the pretrained model.__
 Step-4: 
