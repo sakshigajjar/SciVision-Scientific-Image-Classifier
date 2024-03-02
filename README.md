@@ -7,11 +7,11 @@ This repository contains the codebase for our team's project developed during th
 + Customizable: Our codebase is designed to be easily customizable, allowing users to train the model on their own datasets or fine-tune the existing model for specific tasks.
 
 + Prediction and Visualization: We provide functions for predicting classes of input images and visualizing the prediction results, making it easier to understand and interpret the model's outputs.
-+ 
+
 # Getting Started
 To get started with using our scientific image classifier:
 
-Step-1: Clone this repository to your local machine/Kaggle.
-Step-2: Install the necessary dependencies by running pip install if you encounter any error in importing.
-Step-3: Load the pretrained model
+Step-1: Clone this repository to your local machine/Kaggle._
+Step-2: Install the necessary dependencies by running pip install if you encounter any error in importing._
+Step-3: Load the pretrained model._
 Step-4: 
